@@ -1,6 +1,6 @@
 # Hi, I’m Omar 👋
 
-I’m a final-year **BSc Cyber Security** student with 4–5 years of hands-on IT support experience and a background as a paramedic.
+I’m a final-year Cybersecurity student with 4-5 years of hands-on IT support experience and a background as a paramedic.
 
 Before cybersecurity, I learned how to stay calm when things go wrong, think clearly under pressure and communicate with people in difficult moments. Those experiences shape how I approach technology today: understand the problem, look for the small signals and act carefully before a situation becomes bigger.
 
@@ -18,7 +18,7 @@ My degree covers the core areas of modern cybersecurity, including:
 - Cyber risk, governance, compliance and professional practice  
 - Secure software development and secure system design  
 
-## What I’m exploring
+## What I’m exploring 
 
 I’m especially interested in:
 
@@ -29,7 +29,7 @@ I’m especially interested in:
 
 ## What I’m building
 
-My current project, [**Security-Foundations**](https://github.com/AOmar-CyberSec/Security-Foundations), is a security-first Flask notes application.
+My current project, [**Security-Foundations**](https://github.com/AOmar-CyberSec/Security-Foundations), is a security notes application.
 
 It focuses on practical security controls, including:
 
@@ -47,7 +47,8 @@ I like small, controlled changes, clear documentation and testing before declari
 
 ## Beyond cybersecurity
 
-My background in paramedicine taught me the value of calm thinking, clear communication and attention to detail. I bring that mindset into cybersecurity: stay focused, ask the right questions and protect people as well as systems.
+My background in emergency med taught me the value of calm thinking, clear communication and attention to detail. I bring that mindset into cybersecurity: stay focused, ask the right questions and protect people as well as systems.
+
 
 ## Let’s connect
 
