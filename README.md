@@ -29,7 +29,9 @@ I’m especially interested in:
 
 ## What I’m building
 
-My current project, [**Security-Foundations**](https://github.com/AOmar-CyberSec/Security-Foundations), is a security notes application.
+my security engineering project, bringing together secure Flask development, authentication, authorisation and access-control testing through a structured workflow of implementation, verification and documented security reviews. 
+
+[**Security-Foundations**](https://github.com/AOmar-CyberSec/Security-Foundations), is a security notes application.
 
 It focuses on practical security controls, including:
 
