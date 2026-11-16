@@ -4,7 +4,7 @@ I’m a final-year Cybersecurity student with 4-5 years of hands-on IT support e
 
 Before cybersecurity, I learned how to stay calm when things go wrong, think clearly under pressure and communicate with people in difficult moments. Those experiences shape how I approach technology today: understand the problem, look for the small signals and act carefully before a situation becomes bigger.
 
-## What I’m studying
+## What I’m studying and working on
 
 My degree covers the core areas of modern cybersecurity, including:
 
